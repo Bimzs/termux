@@ -1,6 +1,4 @@
-# Terminal Yanzz Premium
-
-Tutorial Install Ada Di Tiktok : @misteryanzz
+# Terminal Termux By Bimzz
 
 Terminal tool with:
 - RGB ASCII animated
@@ -13,6 +11,6 @@ Terminal tool with:
 
 ```bash
 pkg install git python nodejs nano
-git clone https://github.com/yanzztoxx/Terminal-Yanzz-Premium
-cd Terminal-Yanzz-Premium
+git clone https://github.com/Bimzs/termux
+cd Bimzz
 bash install.sh
