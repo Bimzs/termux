@@ -11,6 +11,6 @@ Terminal tool with:
 
 ```bash
 pkg install git python nodejs nano
-git clone https://github.com/Bimzs/termux
+git clone https://github.com/Bimzs/termux.git
 cd Bimzz
 bash install.sh
